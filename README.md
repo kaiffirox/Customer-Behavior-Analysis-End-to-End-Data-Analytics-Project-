@@ -74,6 +74,11 @@ The workflow includes:
 - Compare shipping performance  
 - Understand subscription behavior  
 
+## 📊 Power BI Dashboard Preview
+
+<img width="1413" height="800" alt="image" src="https://github.com/user-attachments/assets/ef043633-f927-47ae-8e5a-01b7bf31c7c8" />
+
+
 ---
 
 ## 📊 Key Business Questions Answered  
